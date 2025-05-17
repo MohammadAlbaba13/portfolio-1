@@ -19,4 +19,4 @@ This portfolio was created as part of a web development training application. It
 - `style.css`
 
 ## 🌐 Live Demo
-[Link to live site](https://yourusername.github.io/js-projects/4_html-css-portfolio/)
+[Link to live site](https://mohammadalbaba13.github.io/portfolio-1/)
